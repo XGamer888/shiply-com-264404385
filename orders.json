@@ -1,0 +1,47 @@
+{
+  "RL481528024441": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Johann, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "D'Alessandro Alfonso, Via Giacomo Leopardi, 10, 84010 Pagani SA, Italien",
+    "price": "7.300,00 €",
+    "description": "Hersteller: Harley-Davidson<br>Typ: Dyna Wide Glide<br>Fahrgestelnummer: 5HD1GP4C7AC329881<br>Erstzulassung: 08/2010<br>KM laut Vorbesitzer: 9.800 km<br>Leistung: 57 kW (77 PS)<br>Hubraum: 1.585 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.<br>Inklusive linker Satteltasche und Werkzeugrolle.",
+    "address": "D'Alessandro Alfonso<br>Via Giacomo Leopardi, 10<br>84010 Pagani SA<br>Italien<br>Telefon: +39 327 083 1973",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "13.08.2026",
+    "deliveryDate": "19.08.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
