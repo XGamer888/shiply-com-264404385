@@ -6,7 +6,7 @@
     "receiver": "D'Alessandro Alfonso, Via Giacomo Leopardi, 10, 84010 Pagani SA, Italien",
     "price": "7.300,00 €",
     "description": "Hersteller: Harley-Davidson<br>Typ: Dyna Wide Glide<br>Fahrgestelnummer: 5HD1GP4C7AC329881<br>Erstzulassung: 08/2010<br>KM laut Vorbesitzer: 9.800 km<br>Leistung: 57 kW (77 PS)<br>Hubraum: 1.585 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.<br>Inklusive linker Satteltasche und Werkzeugrolle.",
-    "address": "D'Alessandro Alfonso<br>Via Giacomo Leopardi, 10<br>84010 Pagani SA<br>Italien<br>Telefon: +39 327 083 1973",
+    "address": "D'Alessandro Alfonso<br>via Banzola, 9<br>41040 Polinago MO<br>Italien<br>Telefon: +39 327 083 1973",
     "documents": [
       {
         "name": "Lieferschein",
@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "Via Giacomo Leopardi, 10",
-      "postal_code": "84010",
-      "city": "Pagani SA",
+      "street": "via Banzola, 9",
+      "postal_code": "41040",
+      "city": "Polinago MO",
       "country": "Italien",
-      "lat": "40.7448651537111",
-      "lng": "14.59936036800151"
+      "lat": "44.41450241427707",
+      "lng": "10.701983675558424"
     }
   }
 }
