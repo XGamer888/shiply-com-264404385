@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Via Giacomo Leopardi, 10",
+      "postal_code": "84010",
+      "city": "Pagani SA",
+      "country": "Italien",
+      "lat": "40.7448651537111",
+      "lng": "14.59936036800151"
     }
   }
 }
